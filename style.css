@@ -206,3 +206,16 @@ li {
     border-radius: 5px;
     font-weight: 550;
 }
+
+.footer {
+    background-color: #1f2937;
+    color: #f9faf8;
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.footer > p {
+    margin: 0;
+}
