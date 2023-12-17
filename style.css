@@ -108,6 +108,7 @@ li {
     justify-content: center;
     gap: 20px;
     margin-bottom: 100px;
+    height: 400px;
 }
 
 .blue-boxes {
@@ -129,7 +130,6 @@ li {
 .info {
     width: auto;
     text-align: center;
-    margin-top: 20px;
 }
 
 .info > h1 {
