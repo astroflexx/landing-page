@@ -169,3 +169,40 @@ li {
     display: flex;
     justify-content: flex-end;
 }
+
+.container-4 {
+    padding-top: 100px;
+    padding-bottom: 100px;
+    padding-left: 300px;
+    padding-right: 300px;
+}
+
+.another-blue-box {
+    background-color: #3882f6;
+    padding-top: 20px;
+    padding-bottom: 30px;
+    padding-left: 100px;
+    padding-right: 100px;
+    border-radius: 7px;
+}
+
+.inner-box {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.call {
+    color: #f9faf8;
+    flex-grow: 1;
+}
+
+.sign-up {
+    height: 30px;
+    width: 100px;
+    color: #f9faf8;
+    background-color: #3882f6;
+    border: 2px solid white;
+    border-radius: 5px;
+    font-weight: 550;
+}
